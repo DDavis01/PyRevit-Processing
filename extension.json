@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "PyRevit-Processing",
+    "description": "Data Processing and Cleaning Utilities for PyRevit",
+    "author": "Andrew Davis",
+    "author_profile": "https://github.com/DDavis01",
+    "url": "https://github.com/DDavis01/PyRevit-Processing.git",
+    "website": "https://github.com/DDavis01/PyRevit-Processing",
+    "image": "",
+    "dependencies": []
+}
